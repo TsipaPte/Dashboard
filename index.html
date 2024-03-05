@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta name="description" content="DashBoard - лучшая панель управления для вашего сайта">
+    <meta name="keywords" content="Панель управления, dashboard">
+    <meta name="theme-color" content="">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/adaptive.css">
+    <link rel="icon" href="img/favicon.ico">
+    <title> DashBoard - Admin Panel </title>
+</head>
+<body>
+    <header class="welcome">
+        <h1> Добро пожаловать в панель управления </h1>
+        <div class="login-info">
+            <h2> Вы авторизировались как <span class="login_user"></span> </h2>
+            <button class="user-action"> Выйти </button>
+            <button class="user-action"> Изменить данные </button>
+        </div>
+    </header>
+    <nav class="actions">
+        <ul class="actions-list">
+            <li> <a href="index.html"> Главная </a> </li>
+            <li> <a href="#"> Пользователи </a> </li>
+            <li> <a href="#"> Статистика </a> </li>
+            <li> <a href="#"> Базы данных </a> </li>
+            <li> <a href="#"> Прочее </a> </li>
+        </ul>
+    </nav>
+    <main class="main-dashboard">
+        <section class="statistic">
+            <h2> Статистика сайта </h2>
+            <div class="statistic_block">
+                <h3> Пользователи за день </h3>
+                <span><span class="statistic_value"> 10 </span> шт</span>
+                <h3> Пользователи за месяц </h3>
+                <span><span class="statistic_value"> 120 </span> шт</span>
+            </div>
+            <div class="statistic_block">
+                <h2> Отзывы </h2>
+                <h3> Отзывы за день </h3>
+                <span><span class="statistic_value"> 3 </span> шт</span>
+                <h3> Отзывы за всё время </h3>
+                <span><span class="statistic_value"> 175 </span> шт</span>
+            </div>
+            <div class="statistic_block">
+                <h2> Активность пользователей </h2>
+                <span class="statistic_circle statistic_value">
+                    72%
+                </span>
+                <span class="statistic_circle statistic_value">
+                    42%
+                </span>
+            </div>
+        </section>
+    </main>
+    <script src="js/app.js"></script>
+</body>
+</html>
