@@ -1,7 +1,5 @@
 # Dashboard
 
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://www.bathtub2boardroom.com/wp-content/uploads/2017/04/Dashboard-R-Logo-header.png" alt="">
-
 ## Основная информация
 
 DashBoard - это проект страницы мониторинга сайта. Вы можете указать имя пользователя для отображения в JavaScript-Фалйе. В данной странице есть такие поля как Пользователи за день/месяц, Отзывы, а также Активность пользователей на сайте в процентах. В проекте использовались HTML/CSS и JavaScript.
