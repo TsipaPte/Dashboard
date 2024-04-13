@@ -1,8 +1,6 @@
 # Dashboard
 
-<link rel="stylesheet" href="readme.css">
-
-<img class="center" src="https://www.bathtub2boardroom.com/wp-content/uploads/2017/04/Dashboard-R-Logo-header.png">
+<img style="display: block; margin-left: auto; margin-right: auto;" src="https://www.bathtub2boardroom.com/wp-content/uploads/2017/04/Dashboard-R-Logo-header.png" alt="">
 
 ## Основная информация
 
